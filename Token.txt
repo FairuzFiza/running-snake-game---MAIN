@@ -1,0 +1,11 @@
+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
+
+git remote set-url origin https://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@github.com/FairuzFiza/Pyhton-Snake-Game-using-OpenCV-Hand-Gesture-.git
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote set-url origin https://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@github.com/FairuzFiza/Pyhton-Snake-Game-using-OpenCV-Hand-Gesture-.git
+git push -u origin master
